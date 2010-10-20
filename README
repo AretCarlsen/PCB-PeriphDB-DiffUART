@@ -1,0 +1,5 @@
+Copyright (C) 2010, Aret N Carlsen (aretcarlsen@autonomoustools.com).
+Differential UART PCB design. Intended as daughterboard for Peripheral Driver.
+
+Provides half-duplex differential UART link across RJ45 cable.
+Based on SN75176 transceiver IC.
